@@ -1,3 +1,5 @@
+
+# CI/CD pipeline test - automated deploy via GitHub Actions
 """
 FastAPI wrapper around foosball_core.py.
 
